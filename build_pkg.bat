@@ -1,0 +1,1 @@
+pkg -c package.json -o dist/Launcher.exe -d --no-native-build -C GZip -t node*-win-x64 index.js
