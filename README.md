@@ -1,3 +1,8 @@
+# DEPRECATED
+Please see the [Flowlab SDK Launcher](https://github.com/rezarg/flowlab-sdk-launcher/) for a more up-to-date Flowlab Interactions Launcher!
+
+___
+
 # Flowlab Steamworks Launcher
 The Flowlab Steamworks Launcher is a **third party program** that launches Flowlab games with additional features for Steam interactions, such as **Steam Achievements**, **DLC support**, and **Workshop support**.
 
